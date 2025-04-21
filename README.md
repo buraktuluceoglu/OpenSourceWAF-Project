@@ -21,7 +21,7 @@ Bu projede, ModSecurity tabanlı bir Web Application Firewall (WAF) yapılandır
 
 Bu projeyle ilgili detaylı anlatımı içeren Medium yazıma aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-👉 Medium Yazım
+👉 https://medium.com/@buraktuluceoglu/waf-nedir-nasıl-çalışır-open-source-waf-projesi-3c87759f6722
 
 Ayrıca benimle iletişime geçmek ya da projelerimi takip etmek isterseniz, LinkedIn profilime göz atabilirsiniz:
 
