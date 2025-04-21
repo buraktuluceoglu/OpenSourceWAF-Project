@@ -5,17 +5,20 @@ Bu projede, ModSecurity tabanlı bir Web Application Firewall (WAF) yapılandır
 📌 Proje Amacı
 
 WAF çözümlerinin saldırılara karşı etkinliğini test etmek
+
 Engellenen ve geçebilen payload türlerini gözlemlemek
+
 Web uygulama güvenliğinde WAF kullanımının avantajlarını değerlendirmek
+
 Saldırı sonuçlarını istatistiksel olarak analiz etmek
 
 🧰 Kullanılan Teknolojiler
 
-Docker
-ModSecurity (OWASP CRS ile)
-Damn Vulnerable Web Application (DVWA)
-Burp Suite
-Linux (Ubuntu)
+- Docker
+- ModSecurity (OWASP CRS ile)
+- Damn Vulnerable Web Application (DVWA)
+- Burp Suite
+- Linux (Ubuntu)
 
 📚 Daha Fazla Bilgi
 
